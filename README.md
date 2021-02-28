@@ -28,7 +28,8 @@ ___
 
 Esse projeto tem por objetivo por em prática os conceitos ensinados no curso **HTML Web Developer** de **HTML e CSS** da  **Digital Innovation One.**. 
  - Responsividade:
- <img src="https://i.imgur.com/45HukkD.png" width="300">___________<img src="https://i.imgur.com/CFwf0vc.png" width="300">
+  
+ <img src="https://i.imgur.com/45HukkD.png" width="300">____<img src="https://i.imgur.com/CFwf0vc.png" width="300">
 ___
 ## :seedling: Requisitos Mínimos
 
